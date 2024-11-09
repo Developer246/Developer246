@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Developer246
-- 👀 I’m interested in Minecraft,Arduino and Aplications
+- 👀 I’m interested in Minecraft,Arduino and other Aplications
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on eaglercraft
 - 📫 How to reach me ...
